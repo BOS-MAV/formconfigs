@@ -83,12 +83,12 @@
 		"title": "Career Achievements"
 	},
 	{
-		"name": 'brave',
+		"name": "brave",
 		"type":"dropdown",
         	"required":false,
 		"display":"selected",
 		"selected":true,
-		"title": 'Bravery Rating',
+		"title": "Bravery Rating",
         	"options": [
           	{"key": '"solid",  "label":"Solid"},
           	{"key": "great",  "label": "Great"},
