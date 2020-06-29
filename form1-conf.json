@@ -86,8 +86,6 @@
 		"name": "brave",
 		"type":"dropdown",
         	"required":false,
-		"display":"selected",
-		"selected":true,
 		"title": "Bravery Rating",
         	"options": [
           	{"key": "solid",  "value":"Solid"},
