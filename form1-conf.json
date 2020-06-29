@@ -9,7 +9,7 @@
 			"options": [
 				{"key": "gk",  "label": "GK"},
 				{"key": "defender",  "label": "Defender"},
-				{"key": "midfielder",  "label": "Midfielder"},
+				{"key": "midfielder",  "label": "Missfielder"},
 				{"key": "winger",  "label": "Winger"},
 				{"key": "striker",  "label": "Striker"},
 				{"key": "other","label":"Other"}
