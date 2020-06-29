@@ -83,18 +83,11 @@
 		"title": "Career Achievements"
 	},
 	{
-		 "key": "brave",
-		 "type":"dropdown",
+		 "name": "test",
+		 "type":"checkbox",
 	         "display": "selected",
 	         "selected": true,
 		 "required":false,
-		"label": "Bravery Rating",
-        	"options": [
-          	{"key": "solid",  "value":"Solid"},
-          	{"key": "great",  "value": "Great"},
-          	{"key": "good",   "value": "Good"},
-          	{"key": "unproven", "value": "Unproven"}
-        	],
-		"order":3
+		"title": "Test"
       }
 ]
