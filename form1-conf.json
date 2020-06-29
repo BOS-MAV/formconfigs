@@ -95,5 +95,5 @@
           	{"key": "good",   "label": "Good"},
           	{"key": "unproven", "label": "Unproven"}
         	]
-      })
+      }
 ]
