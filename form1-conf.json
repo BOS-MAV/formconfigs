@@ -90,10 +90,10 @@
 		"selected":true,
 		"title": "Bravery Rating",
         	"options": [
-          	{"key": "solid",  "label":"Solid"},
-          	{"key": "great",  "label": "Great"},
-          	{"key": "good",   "label": "Good"},
-          	{"key": "unproven", "label": "Unproven"}
+          	{"key": "solid",  "value":"Solid"},
+          	{"key": "great",  "value": "Great"},
+          	{"key": "good",   "value": "Good"},
+          	{"key": "unproven", "value": "Unproven"}
         	]
       }
 ]
