@@ -11,7 +11,8 @@
 				{"key": "defender",  "label": "Defender"},
 				{"key": "midfielder",  "label": "Midfielder"},
 				{"key": "winger",  "label": "Winger"},
-				{"key": "striker",  "label": "Striker"}
+				{"key": "striker",  "label": "Striker"},
+				{"key": "other","label":"Other"}
 			]
 	  },
 		{
@@ -38,6 +39,20 @@
     "selected": true,
     "title": "Nationality"
   },
+	{
+	
+		"name": "country",
+		"type": "select",
+		"required": false,
+		"display": "selected",
+		"selected": true,
+		"title": "Country",
+		"options": [
+			{"key": "USA",  "label": "USA"},
+			{"key": "USSR",  "label": "USSR"},
+			{"key":"UK","label":"UK")
+		]
+	},	
   {
     "name": "team",
     "type": "text",
